@@ -24,6 +24,7 @@ public:
 		faceValue = (rand() % 6) + 1;
 		//cout << this << "::Die rolled - " << faceValue << endl;
 	}
+
 	int  getFaceValue() {
 		return faceValue;
 	}

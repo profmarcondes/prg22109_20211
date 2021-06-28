@@ -31,3 +31,9 @@
 *.out
 *.app
 /.metadata/
+
+#Eclipse
+*/.settings/
+*.DS_Store
+*.cproject
+*.project
