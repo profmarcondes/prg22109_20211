@@ -33,6 +33,7 @@
 /.metadata/
 
 #Eclipse
+*/Debug/
 */.settings/
 *.DS_Store
 *.cproject
